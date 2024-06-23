@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graphic Designing and Html
 - 🌱 I’m currently learning Graphic designing
 - 💞️ I’m looking to collaborate on Some of my private project
-- 📫 How to reach me 
+- 📫 How to reach me https://www.instagram.com/shu.bhamsharma777/
 - 😄 Pronouns: Boa Hancock
 - ⚡ Fun fact: 
 
