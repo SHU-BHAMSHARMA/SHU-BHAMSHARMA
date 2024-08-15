@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SHU-BHAMSHARMA
-- 👀 I’m interested in Graphic Designing and Html
-- 🌱 I’m currently learning Graphic designing
-- 💞️ I’m looking to collaborate on Some of my private project
-- 📫 How to reach me https://www.instagram.com/shu.bhamsharma777/
+- 👀 I’m interested in Graphic Designing and Programming
+- 🌱 I’m currently learning Graphic designing and coading
+- 💞️ I’m looking to collaborate on some of my private project
+- 📫 How to reach me 
 - 😄 Pronouns: Boa Hancock
 - ⚡ Fun fact: 
 
