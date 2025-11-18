@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @SHU-BHAMSHARMA
-- 👀 I’m interested in Graphic Designing Programming editing and photography
-- 🌱 I’m currently learning Graphic designing and coading
-- 💞️ I’m looking to collaborate on some of my private project
-- 📫 To reach me https://shubhamsharma777.com.np/
-- 😄 Pronouns: Boa Hancock
-- ⚡ Fun fact: 
+Hi, I’m Shubham Nis. Sharma
 
-<!---
-SHU-BHAMSHARMA/SHU-BHAMSHARMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ I’m passionate about Graphic Designing, Programming, Video Editing, and Photography
+ Currently learning Advanced Graphic Design and improving my coding skills
+ Open to collaborating on some of my private projects
+ Reach me at: shubhamsharma777.com.np
+ Studying at Kathmandu University
+
+🛠️ Skills & Tools
+
+Languages: C++, HTML, CSS, JavaScript
+Web Development: Front-end Developmen
+Design Tools: Photoshop, Illustrator, Figma
+Other: Davinci resolve, Lightroom
+
+🚀 Projects
+
+Mero Sawari – A project focused on mobility/travel solutions
+Kurakani.chat – A chat-based communication platform
