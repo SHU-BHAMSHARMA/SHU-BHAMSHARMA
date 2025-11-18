@@ -1,10 +1,10 @@
 Hi, I’m Shubham Nis. Sharma
 
- I’m passionate about Graphic Designing, Programming, Video Editing, and Photography
- Currently learning Advanced Graphic Design and improving my coding skills
- Open to collaborating on some of my private projects
- Reach me at: shubhamsharma777.com.np
- Studying at Kathmandu University
+ - I’m passionate about Graphic Designing, Programming, Video Editing, and Photography 
+ - Currently learning Advanced Graphic Design and improving my coding skills
+ - Open to collaborating on some of my private projects
+ - Reach me at: shubhamsharma777.com.np
+ - Studying at Kathmandu University
 
 🛠️ Skills & Tools
 
